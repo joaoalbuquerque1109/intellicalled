@@ -1,4 +1,4 @@
-# IntelliCalled - Multi-tenant Queue Management (Laravel SDD)
+# SyncCall - Multi-tenant Queue Management (Laravel SDD)
 
 Este repositório contém a base arquitetural multi-tenant para um SaaS de filas.
 
